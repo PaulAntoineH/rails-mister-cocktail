@@ -1,0 +1,13 @@
+.simple_form {
+  div.input {
+    margin-bottom: 10px;
+    clear: both;
+    /* Required for Webkit, but not for Gecko */
+  }
+  label {
+    float: left;
+    width: 100px;
+    text-align: center;
+    margin: 2px 2px;
+  }
+}
